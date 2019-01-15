@@ -1,0 +1,62 @@
+.inl1 {
+    display: inline-block;
+}
+
+.bg1 {
+    background-image: url(mountains.jpg);
+    background-size: cover;
+    height: 80vh;
+}
+
+.yap {
+    background-color: rgba(0, 255, 255, 0.5);
+    height: 100%;
+}
+
+.white1 {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.button11 {
+    background-color: transparent;
+}
+
+.footer1 {
+    background-color: black;
+    height: 15vh;
+    padding-top: 30px;
+}
+
+.head-blue1,
+.text-blu1 {
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+
+.head-blue1 h3 {
+    color: blue;
+}
+
+.marg {
+    margin-top: 30px;
+}
+
+.text-blu1 {
+    background-color: blue;
+    color: white;
+}
+
+.accordion {
+    height: 60vh;
+    background-color: rgb(150, 150, 150);
+}
+
+.btn22 {
+    background-color: rgb(150, 150, 150);
+    border: 1px solid black !important;
+}
